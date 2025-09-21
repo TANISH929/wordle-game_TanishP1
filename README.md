@@ -1,4 +1,4 @@
-# Wordle Game in Python 🎮
+# Wordle Game in Python 
 
 A simple Wordle-like game in Python.
 
